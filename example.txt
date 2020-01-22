@@ -4,4 +4,6 @@ he was a good programmer and didn't need to.
 But one day, he made a mistake and wrote buggy code. He searched for hours for
 his bug, but couldn't figure it out.
 
+the dinosaur roared, a nuclear bomb hit antartica and then the world ended.
+
 Write an ending to the story!
