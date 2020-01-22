@@ -1,5 +1,5 @@
 Once upon a time there was a programmer. But he didn't ever use git! After all,
-he was a good programmer and didn't need to. 
+he was a good programmer and didn't need to.
 
 But one day, he made a mistake and wrote buggy code. He searched for hours for
 his bug, but couldn't figure it out.
